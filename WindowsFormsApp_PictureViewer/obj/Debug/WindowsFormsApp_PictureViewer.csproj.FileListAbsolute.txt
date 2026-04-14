@@ -1,0 +1,10 @@
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\bin\Debug\WindowsFormsApp_PictureViewer.exe.config
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\bin\Debug\WindowsFormsApp_PictureViewer.exe
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\bin\Debug\WindowsFormsApp_PictureViewer.pdb
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\obj\Debug\WindowsFormsApp_PictureViewer.csproj.AssemblyReference.cache
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\obj\Debug\WindowsFormsApp_PictureViewer.Form1.resources
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\obj\Debug\WindowsFormsApp_PictureViewer.Properties.Resources.resources
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\obj\Debug\WindowsFormsApp_PictureViewer.csproj.GenerateResource.cache
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\obj\Debug\WindowsFormsApp_PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\obj\Debug\WindowsFormsApp_PictureViewer.exe
+C:\Users\MASTER2022\source\repos\WindowsFormsApp_PictureViewer\obj\Debug\WindowsFormsApp_PictureViewer.pdb
